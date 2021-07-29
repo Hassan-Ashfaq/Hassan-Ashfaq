@@ -5,18 +5,12 @@
 You can find me on,
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/hassan-ashfaq-/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  
+  <a href="https://www.linkedin.com/in/hassan-ashfaq-/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
   <a href="mailto:hassanashfaq20@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  
   <!-- <a href="https://stackoverflow.com"><img title="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack%20overflow&logoColor=fff"/></a> -->
-  
   <a href="https://www.coursera.org/user/ebdb256addf439f6d9367a7772a07c3a"><img title="Coursera" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=fff"/></a>
-  
   <a href="https://www.kaggle.com/hassanashfaq2001"><img title="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=fff"/></a>
-
   <a href="https://developers.google.com/profile/u/112601170720683924558#account"><img title="Google Developer's Profile" src="https://img.shields.io/badge/Developers%20Google-4285F4?style=for-the-badge&logo=google&logoColor=white"/></a>
-
   <a href="https://www.youtube.com/c/ProtoGO/featured"><img title="Subscribe to ProToGO" src="https://img.shields.io/badge/Youtube-D14836?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
