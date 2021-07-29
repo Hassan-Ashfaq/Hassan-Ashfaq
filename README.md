@@ -7,6 +7,7 @@ You can find me on,
 <p align="left">
   <a href="https://www.linkedin.com/in/hassan-ashfaq-/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
   <a href="https://twitter.com/_Hassan_Ashfaq_"><img title="Follow on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.credly.com/users/hassan-ashfaq/badges"><img title="Follow on Credly" src="https://img.shields.io/badge/Credly-E95420?style=for-the-badge&logo=acclaim&logoColor=white"/></a>
   <a href="mailto:hassanashfaq20@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/</a>
   <!-- <a href="https://stackoverflow.com"><img title="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack%20overflow&logoColor=fff"/></a> -->
   <a href="https://www.coursera.org/user/ebdb256addf439f6d9367a7772a07c3a"><img title="Coursera" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=fff"/></a>
