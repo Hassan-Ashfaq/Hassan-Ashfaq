@@ -54,3 +54,6 @@ I've worked with Python, C/C++, SQL, Oracle, HTML, PHP. See more tools down belo
 <img alt='OracleSQL' src="https://img.shields.io/badge/OracleSQL-OracleSQL?style=for-the-badge&logo=oracle&color=F80000"/>
 
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hassan-Ashfaq&show_icons=true">
+</p>
