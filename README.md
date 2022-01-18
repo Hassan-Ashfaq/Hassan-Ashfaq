@@ -55,5 +55,7 @@ I've worked with Python, C/C++, SQL, Oracle, HTML, PHP. See more tools down belo
 
 </p>
 <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-Ashfaq&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hassan-Ashfaq&show_icons=true">
 </p>
