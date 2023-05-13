@@ -1,65 +1,166 @@
-<h1 align="left">About</h1>
+<style>
+  /* center align the entire section */
+  .about-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
 
-<h2 align="left">Personal Links</h2>
+  /* style the headings */
+  .about-section h1,
+  .about-section h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: #4e4e4e;
+    text-align: center;
+    margin-bottom: 20px;
+  }
 
-You can find me on,
+  .about-section h2 {
+    font-size: 24px;
+    margin-top: 50px;
+  }
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/hassan-ashfaq-/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-  <a href="https://twitter.com/_Hassan_Ashfaq_"><img title="Follow on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.credly.com/users/hassan-ashfaq/badges"><img title="Follow on Credly" src="https://img.shields.io/badge/Credly-E95420?style=for-the-badge&logo=acclaim&logoColor=white"/></a>
-  <a href="mailto:hassanashfaq20@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/</a>
-  <!-- <a href="https://stackoverflow.com"><img title="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack%20overflow&logoColor=fff"/></a> -->
-  <a href="https://www.coursera.org/user/ebdb256addf439f6d9367a7772a07c3a"><img title="Coursera" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=fff"/></a>
-  <a href="https://www.kaggle.com/hassanashfaq2001"><img title="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=fff"/></a>
-  <a href="https://developers.google.com/profile/u/112601170720683924558#account"><img title="Google Developer's Profile" src="https://img.shields.io/badge/Developers%20Google-4285F4?style=for-the-badge&logo=google&logoColor=white"/></a>
-  <a href="https://www.youtube.com/c/ProtoGO/featured"><img title="Subscribe to ProToGO" src="https://img.shields.io/badge/Youtube-D14836?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-</p>
+  /* style the personal links section */
+  .personal-links {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 50px;
+  }
 
-<h2 align="left">Biography</h2>
+  .personal-links a {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    margin: 10px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: #e6e6e6;
+    transition: all 0.3s ease-in-out;
+  }
 
-Hi, I'm Hassan Ashfaq.
+  .personal-links a:hover {
+    background-color: #4e4e4e;
+    color: white;
+    transform: scale(1.1);
+  }
 
-I have a strong machine learning background, with a Bachelor's degree in Artificial Intelligence. Throughout my career, I have worked on various machine learning projects, including natural language processing, computer vision, and predictive modeling.
+  .personal-links img {
+    height: 30px;
+    margin-right: 10px;
+  }
 
-I am proficient in a range of programming languages and frameworks, including Python, PyTorch, Tensor Flow, and scikit learn. I have experience building and deploying machine learning models in production environments and am comfortable working with large datasets and distributed computing systems.
+  /* style the biography section */
+  .biography {
+    max-width: 800px;
+    font-size: 18px;
+    line-height: 1.5;
+    color: #4e4e4e;
+    text-align: center;
+    margin-bottom: 50px;
+  }
 
-Outside of my professional life, I am an avid learner and enjoy staying up to date with the latest developments in the field of machine learning. I also enjoy participating in hackathons and contributing to open-source projects.
+  /* style the tech stack section */
+  .tech-stack {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
 
-I look forward to the opportunity to contribute my skills and expertise to your team.
+  .tech-stack img {
+    height: 40px;
+    margin: 10px;
+  }
+</style>
 
-## Tech Stack
+<div class="about-section">
+  <h1>About</h1>
 
-<p align="left">
- <a href="#">
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <h2>Personal Links</h2>
 
-<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <div class="personal-links">
+    <a href="https://www.linkedin.com/in/hassan-ashfaq-/">
+      <img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      LinkedIn
+    </a>
 
-<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+    <a href="https://twitter.com/_Hassan_Ashfaq_">
+      <img title="Follow on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+      Twitter
+    </a>
 
-<!-- <img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/> -->
+    <a href="https://www.credly.com/users/hassan-ashfaq/badges">
+      <img title="Follow on Credly" src="https://img.shields.io/badge/Credly-E95420?style=for-the-badge&logo=acclaim&logoColor=white"/>
+      Credly
+    </a>
 
-<img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
+    <a href="mailto:hassanashfaq20@gmail.com">
+      <img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+      Email
+    </a>
+  </div>
+  
+  </div>
+  <h2>Biography</h2>
+  <p class="biography">I am a passionate software developer with 5 years of experience in building web applications using various technologies. My skills include HTML, CSS, JavaScript, Node.js, and React. I have worked on several projects including e-commerce platforms, social networking sites, and educational applications. In my free time, I enjoy reading books and practicing yoga.</p>
+  <h2>Tech Stack</h2>
+  <div class="tech-stack">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  </div>
+</div>
 
-<img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
 
-<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+User
+list all div class="about-section" code html
+ChatGPT
+There is only one div with the class about-section in the provided code. Here is the full code:
 
-<img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+html
+Copy code
+<div class="about-section">
+  <h1>About</h1>
 
-<img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+  <h2>Personal Links</h2>
 
-<img alt="Linux" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <div class="personal-links">
+    <a href="https://www.linkedin.com/in/hassan-ashfaq-/">
+      <img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      LinkedIn
+    </a>
 
-<img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+    <a href="https://twitter.com/_Hassan_Ashfaq_">
+      <img title="Follow on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+      Twitter
+    </a>
 
-<img alt='MySQL' src="https://img.shields.io/badge/SQL-MySQL?style=for-the-badge&logo=mysql&color=F29111"/>
+    <a href="https://www.credly.com/users/hassan-ashfaq/badges">
+      <img title="Follow on Credly" src="https://img.shields.io/badge/Credly-E95420?style=for-the-badge&logo=acclaim&logoColor=white"/>
+      Credly
+    </a>
 
-<img alt='OracleSQL' src="https://img.shields.io/badge/OracleSQL-OracleSQL?style=for-the-badge&logo=oracle&color=F80000"/>
+    <a href="mailto:hassanashfaq20@gmail.com">
+      <img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+      Email
+    </a>
+  </div>
 
-</p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-Ashfaq&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hassan-Ashfaq&show_icons=true">
-</p>
+  <h2>Biography</h2>
+
+  <div class="biography">
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales sapien ipsum, at imperdiet arcu lobortis vel. Vivamus finibus, erat nec commodo semper, magna nulla venenatis urna, sit amet elementum velit risus a dolor. Praesent sit amet metus non elit facilisis efficitur. Sed ultricies finibus diam in tincidunt. Praesent lacinia sem sit amet eros aliquet tristique. Sed malesuada, urna sit amet vehicula tincidunt, risus eros pellentesque tellus, in pretium tellus tellus et ex. Fusce venenatis ante lectus, ac tincidunt sapien placerat vel. Proin in blandit nulla, ut posuere mi. Aenean pulvinar mi vel dolor ultrices laoreet. Maecenas vel eros est. Curabitur ut tortor risus. </p>
+
+    <p>Quisque vel ex lectus. Sed sit amet gravida elit, vel rhoncus velit. Donec pulvinar ultricies diam, ac posuere nisi efficitur eget. Aliquam euismod sapien at leo bibendum, ac facilisis lorem congue. Integer auctor dapibus ligula in ultricies. Proin eget erat semper, ultrices orci in, rhoncus mi. Aenean dictum tellus et risus euismod blandit. Suspendisse nec ipsum vel justo faucibus laoreet eu sit amet velit. Duis ultrices orci nec felis malesuada, sit amet interdum nulla pellentesque. Donec vel dolor sit amet nibh consectetur tincidunt.</p>
+
+    <p>Morbi vel elit vel felis maximus elementum. Maecenas eget blandit lorem. Aenean blandit nisi eu urna interdum aliquet. Donec vestibulum suscip
+
+
+
