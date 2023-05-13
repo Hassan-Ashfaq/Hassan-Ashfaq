@@ -18,10 +18,15 @@ You can find me on,
 
 <h2 align="left">Biography</h2>
 
-Hi, I’m Hassan Ashfaq!
+Hi, I'm Hassan Ashfaq.
 
-I’m Currently from Pakistan, going into my 3rd year at FAST NUCES, Islamabad, majoring in Artificial Intelligence. My technical expertise currently lies with Machine Learning, Deep Learning, Natural Language Processing, Python & C++ Developer. 
-I've worked with Python, C/C++, SQL, Oracle, HTML, PHP. See more tools down below. I also have Specializations in Python for Everybody Specialization from the University of Michigan, AI Foundations for Everyone Specialization from IBM, and many more.
+I have a strong machine learning background, with a Bachelor's degree in Artificial Intelligence. Throughout my career, I have worked on various machine learning projects, including natural language processing, computer vision, and predictive modeling.
+
+I am proficient in a range of programming languages and frameworks, including Python, PyTorch, Tensor Flow, and scikit learn. I have experience building and deploying machine learning models in production environments and am comfortable working with large datasets and distributed computing systems.
+
+Outside of my professional life, I am an avid learner and enjoy staying up to date with the latest developments in the field of machine learning. I also enjoy participating in hackathons and contributing to open-source projects.
+
+I look forward to the opportunity to contribute my skills and expertise to your team.
 
 ## Tech Stack
 
